@@ -1,0 +1,4 @@
+cactus-needle[mic]>=3.2.1
+PySide6>=6.8
+PyInstaller>=6.8
+Pillow>=10.0
